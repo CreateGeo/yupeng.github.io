@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cassie Buhler"
+title                    : "Yu Peng"
 title_separator          : "-"
 name: &name "Cassie Buhler"
 description              : &description ""
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cassie Buhler, Ph.D. (she/her)"
+  name             : "Yu Peng, Ph.D. Candidate (He/him/his)"
   avatar           : "cassiebuhler.png"
   bio              : ""
-  location         : "Boulder, CO"
+  location         : "Indianapolis, IN"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SO2TNKMAAAAJ&hl=en"
-  email            : "cassie.buhler@colorado.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=_lQPeN8AAAAJ&hl=en"
+  email            : "yp24@iu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
