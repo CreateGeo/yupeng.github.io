@@ -15,26 +15,18 @@ I taught and assisted dozens of classes in the Decision Sciences & MIS Departmen
 | Course | Level | Quarter(s) | Role | Topic |
 | ---- | --- | --- | --- |	 --- |	
 |Geology 205: Reporting Skills in Geoscience | Undergraduate | Fall 2025 | Teaching Asistant  |
-|Geology 477: Climate Change And Society | U | <a href="/files/MIS-200_Fall2019.pdf" target="_blank" rel="noopener noreferrer">Fa2019</a>;  <a href="/files/MIS-200_Fall2020.pdf" target="_blank" rel="noopener noreferrer">Fa2020</a>; <a href="/files/MIS-200_Winter2021.pdf" target="_blank" rel="noopener noreferrer">Wi2021</a> | Excel; MS Access; HTML |
+|Geology 477: Climate Change And Society| Undergraduate / Graduate | Spring 2025 | Guest Lecturer | Agricultural Resilience under Changing Climate (Meta-analysis) |
 |Geology 436: Earth Observation From Space| Undergraduate / Graduate | Fall 2024 | Guest Lecturer | Geospatial Big Data and Cloud Computing (Google Earth Engine) |
 
 
-*Undergraduate (U), Graduate (G)*
 
-*Fall (Fa), Winter (Wi), Spring (Sp), Summer (Su)*
+## Mentoring Experience
 
-## Teaching Experience
-
-| Course | Level | Quarter(s) | Role | Topic |
+| Type | Level | Quarter| Topic |
 | ---- | --- | --- | --- |
-| Geology 205: Reporting Skills in Geoscience | U | Fall 2025 | Teaching Asistant |
-| Geology 477: Climate Change And Society | G / U  | Spring 2025 | Guest Lecturer| Agricultural Resilience under Changing Climate |
-| Geology 436: Earth Observation From Space | G / U  | Fall 2024 | Guest Lecturer | Geospatial Big Data and Cloud Computing (Google Earth Engine |
+| Independent study | Graduate | Summer 2025 | Meta-analysis for no-till nitrogen leaching |
+| Independent study | Undergraduate| Fall 2023 | Meta-analysis for yield impact of cover cropping |
 
-
-*Undergraduate (U), Graduate (G)*
-
-*Fall (Fa), Winter (Wi), Spring (Sp), Summer (Su), TA (Teaching Asistant), GL (Guest Lecturer )*
 
 
 
