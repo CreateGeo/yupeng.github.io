@@ -24,7 +24,7 @@ I taught and assisted dozens of classes in the Decision Sciences & MIS Departmen
 
 | Type | Level | Quarter| Topic |
 | ---- | --- | --- | --- |
-| Independent study | Graduate | Summer 2025 | Meta-analysis for no-till nitrogen leaching |
+| Independent study | Graduate (phd student)| Summer 2025 | Meta-analysis for no-till nitrogen leaching |
 | Independent study | Undergraduate| Fall 2023 | Meta-analysis for yield impact of cover cropping |
 
 
