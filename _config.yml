@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yu Peng"
 title_separator          : "-"
-name: &name "Cassie Buhler"
+name: &name "Yu Peng"
 description              : &description ""
 url                      : https://cassiebuhler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Yu Peng, Ph.D. Candidate (He/him/his)"
-  avatar           : "Headshot of YuPeng.png"
+  avatar           : "HeadshotYuPeng.png"
   bio              : ""
   location         : "Indianapolis, IN"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_lQPeN8AAAAJ&hl=en"
   email            : "yp24@iu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/cassie-buhler/"
-  orcid            : "https://orcid.org/0000-0003-4157-4273"
+  linkedin         : "https://www.linkedin.com/in/pengyuwh/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0043-9075"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
