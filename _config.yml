@@ -11,7 +11,7 @@ title                    : "Yu Peng"
 title_separator          : "-"
 name: &name "Yu Peng"
 description              : &description ""
-url                      : https://cassiebuhler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://creategeo.github.io/yupeng.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yupeng.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu Peng, Ph.D (He/him/his)"
+  name             : "Yu Peng, (He/him/his)"
   avatar           : "images/HeadshotYuPeng.png"
   bio              : ""
   location         : "Indianapolis, IN"
@@ -88,7 +88,6 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_lQPeN8AAAAJ&hl=en"
   email            : "yp24@iu.edu"
-  researchgate     :  #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cassiebuhler"
+  github           : "creategeo"
   google_plus      :
   keybase          :
   instagram        :
