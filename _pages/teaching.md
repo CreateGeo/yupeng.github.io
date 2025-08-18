@@ -16,7 +16,7 @@ I taught and assisted dozens of classes in the Decision Sciences & MIS Departmen
 | ---- | --- | --- | --- |	 --- |	
 |Geology 205: Reporting Skills in Geoscience | Undergraduate | Fall 2025 | Teaching Asistant  |
 |Geology 477: Climate Change And Society | U | <a href="/files/MIS-200_Fall2019.pdf" target="_blank" rel="noopener noreferrer">Fa2019</a>;  <a href="/files/MIS-200_Fall2020.pdf" target="_blank" rel="noopener noreferrer">Fa2020</a>; <a href="/files/MIS-200_Winter2021.pdf" target="_blank" rel="noopener noreferrer">Wi2021</a> | Excel; MS Access; HTML |
-|Geology 436: Earth Observation From Space  | Undergraduate / Graduate |  Guest Lecturer |Geospatial Big Data and Cloud Computing (Google Earth Engine) |
+|Geology 436: Earth Observation From Space| Undergraduate / Graduate | Fall 2024 | Guest Lecturer | Geospatial Big Data and Cloud Computing (Google Earth Engine) |
 
 
 *Undergraduate (U), Graduate (G)*
